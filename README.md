@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
   <img align="center" style="margin-right:10px" src="https://github-readme-stats.vercel.app/api?username=andrewkirc&hide=issues,stars&count_private=true&show_icons=true&theme=transparent&hide_title=true" />
 </a>
 <a href="https://github.com/andrewkirc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbdb&hide=php,java&layout=compact&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkirc&hide=php,java&layout=compact&theme=transparent" />
 </a>
