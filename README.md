@@ -9,8 +9,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="https://github.com/andrewkirc">
-  <img align="center" style="width:580px" src="https://github-readme-stats.vercel.app/api?username=andrewkirc&hide=issues,stars&count_private=true&show_icons=true&theme=transparent&hide_title=true" />
+  <img align="center" style="width:100%" src="https://github-readme-stats.vercel.app/api?username=andrewkirc&hide=issues,stars&count_private=true&show_icons=true&theme=transparent&hide_title=true" />
 </a>
+<br /><br />
 <a href="https://github.com/andrewkirc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkirc&hide=php,java&layout=compact&theme=transparent" />
+  <img align="center" style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkirc&hide=php,java&layout=compact&theme=transparent" />
 </a>
