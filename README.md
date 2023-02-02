@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrewkirc
 - 👀 I'm currently the Lead Software Engineer at [Weevio](https://github.com/macexperience).
-- 🌱 Currently working with JavaScript, React, SDK development, and API integrations.
+- 🌱 Currently working with JavaScript, React, Next.js, implementing AI models, SDK development, and API integrations.
 - 📫 Shoot me an [email](https://andrewkirchofer.com/contact) and view my [resume](https://andrewkirchofer.com/resume).
 
 <!---
